@@ -2,7 +2,7 @@ import Datetime from 'react-datetime';
 import moment from 'moment';
 import { useState, useEffect } from 'react';
 
-const BASE_URL = 'http://localhost:6001'
+const BASE_URL = 'http://ec2-3-19-209-48.us-east-2.compute.amazonaws.com:6001'
 
 function AgeCalculator() {
 
