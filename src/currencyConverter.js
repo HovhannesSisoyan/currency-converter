@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 
-const BASE_URL = 'https://3.19.209.48:443'
+const BASE_URL = 'http://ec2-3-19-209-48.us-east-2.compute.amazonaws.com'
 
 function CurrencyConverter() {
 
